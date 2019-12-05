@@ -37,7 +37,8 @@ public class JSONApp {
 
     public static JsonObject sessionResult() {
         JsonObject jsonObject = null;
-        // ToDo
+//        JsonPair[] jPairs = new JsonPair[];
+
         return jsonObject;
     }
 }
